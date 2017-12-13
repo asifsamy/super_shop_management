@@ -1,0 +1,26 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Debug\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Debug\Supershop.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form5.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.exe
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.pdb
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\bin\Debug\Supershop.exe
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\bin\Debug\Supershop.pdb
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Form1.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Form2.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Form3.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Form4.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Form5.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.Properties.Resources.resources
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\obj\Debug\Supershop.csproj.GenerateResource.Cache
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\bin\Debug\nunit.framework.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop\bin\Debug\nunit.framework.xml

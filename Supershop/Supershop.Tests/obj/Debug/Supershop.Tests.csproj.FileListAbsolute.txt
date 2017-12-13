@@ -1,0 +1,11 @@
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Supershop.Tests.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Supershop.Tests.pdb
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Supershop.exe
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Supershop.pdb
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\obj\Debug\Supershop.Tests.csprojResolveAssemblyReference.cache
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\obj\Debug\Supershop.Tests.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\obj\Debug\Supershop.Tests.pdb
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\nunit.framework.dll
+F:\CSE435\Project\CSE435 Project\Supershop\Supershop.Tests\bin\Debug\nunit.framework.xml
